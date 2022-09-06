@@ -21,7 +21,7 @@ Ressalto que é apenas uma demo, muito pode e será melhorado no futuro! Espero 
 </table>
 
 <div><h2>IMPORTANTE:</h2>
-O código e Sprits são free to use, então no caso, pode ser utilizado para fins de estudo.
+O código e Sprites são free to use, então no caso, pode ser utilizado para fins de estudo.
 Lembrando que o código original pode ser encontrado em:<br>
 http://https://github.com/chriscourses<br>
 E no vídeo a baixo:<br>
