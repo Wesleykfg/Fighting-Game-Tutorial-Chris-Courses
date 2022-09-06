@@ -1,0 +1,17 @@
+BASIC FIGHTING GAME MECHANICS:
+* Project Setup @done 20:54 quarta-feira, 31 de agosto de 2022
+* Create Player and Enemy @done 22:11 quarta-feira, 31 de agosto de 2022
+* Move Characters with Event Listeners @done 22:11 quarta-feira, 31 de agosto de 2022
+* Attacks @done 23:55 quarta-feira, 31 de agosto de 2022
+* Health Bar Interface @done 15:17 quinta-feira, 1 de setembro de 2022
+* Game Timers and Game Over @done 20:04 quinta-feira, 1 de setembro de 2022
+
+SPRITES AND ANIMATION:
+* Background Sprite @done 22:18 quinta-feira, 1 de setembro de 2022
+* Shop Sprite With Animation @done 23:01 quinta-feira, 1 de setembro de 2022
+* Player Sprite (Samurai Mack) ----- Idle, Run, Jump, Attack ----- @done 22:42 sexta-feira, 2 de setembro de 2022
+* Enemy Sprite (Kenji) @done 21:34 segunda-feira, 5 de setembro de 2022
+* Receive Hit Animation @done 23:32 segunda-feira, 5 de setembro de 2022
+* Death Animation @done 13:54 terça-feira, 6 de setembro de 2022
+* Interface Desigb and Animation @done 14:58 terça-feira, 6 de setembro de 2022
+* Pushing Live @done 16:11 terça-feira, 6 de setembro de 2022
