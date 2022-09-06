@@ -40,6 +40,29 @@ https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=12549s]
     </tr>
 </table>
  
+ ##
+  
+   <h3> Controles 🛠</h3> 
+
+
+- W = Pula com o primeiro jogador
+
+- A = Anda para a esquerda com o primeiro jogador
+
+- D = Anda para a direita com o primeiro jogador
+   
+- BARRA DE ESPAÇO = Ataca com o primeiro jogador
+   
+- SETA PARA CIMA = Pula com o segundo jogador
+
+- SETA PARA A ESQUERDA = Anda para a esquerda com o segundo jogador
+ 
+- SETA PARA A DIRETIA = Anda para a direita com o segundo jogador
+
+- SETA PARA BAIXO = Ataca com o segundo jogador
+  
+ ##
+ 
  <div><h2>Site:</h2>
 https://demoprojetogame-wesleykfg.netlify.app/
 </div>
