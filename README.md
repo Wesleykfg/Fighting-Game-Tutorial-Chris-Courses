@@ -36,6 +36,7 @@ https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=12549s]
         <td><img alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/></td>
         <td><img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></td>
         <td><img alt="JS"src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
+        <td><img alt="Netfy"src="https://badges.netlify.app/api/demoprojetogame-wesleykfg.netlify.app.svg?branch=main"/></td>
     </tr>
 </table>
  
