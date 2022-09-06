@@ -38,3 +38,7 @@ https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=12549s]
         <td><img alt="JS"src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>
     </tr>
 </table>
+ 
+ <div><h2>Site:</h2>
+https://demoprojetogame-wesleykfg.netlify.app/
+</div>
