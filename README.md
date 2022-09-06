@@ -8,7 +8,7 @@ e a utilização de personalizações externas.
 
 O projeto original pertence ao Chris, do Canal Chirs courses no youtube, o link será informado mais abaixo.
 
-Ressalto que é apenas uma demo, muito pode e será melhorado no futuro! Espero que gostem!!!
+Ressalto que é apenas uma demo, muito será melhorado no futuro! Espero que gostem!!!
 </div>
  
 <table align="center">
