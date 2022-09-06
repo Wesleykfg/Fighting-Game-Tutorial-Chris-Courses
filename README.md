@@ -13,10 +13,10 @@ Ressalto que é apenas uma demo, muito pode e será melhorado no futuro! Espero 
  
 <table align="center">
     <tr>
-        <td><img alt="Spring" src="https://img.shields.io/github/contributors/wesleykfg/Fighting-Game-Tutorial-Chris-Courses?style=for-the-badge"/></td>
-        <td><img alt="HTML" src="https://img.shields.io/github/languages/code-size/wesleykfg/Fighting-Game-Tutorial-Chris-Courses?style=for-the-badge"/></td>
-        <td><img alt="CSS" src="https://img.shields.io/github/directory-file-count/wesleykfg/Fighting-Game-Tutorial-Chris-Courses?style=for-the-badge"/></td>
-        <td><img alt="Java" src="https://img.shields.io/github/languages/count/wesleykfg/Fighting-Game-Tutorial-Chris-Courses?style=for-the-badge"/></td>
+        <td><img alt="Contribuidores" src="https://img.shields.io/github/contributors/wesleykfg/Fighting-Game-Tutorial-Chris-Courses?style=for-the-badge"/></td>
+        <td><img alt="Tamanho" src="https://img.shields.io/github/languages/code-size/wesleykfg/Fighting-Game-Tutorial-Chris-Courses?style=for-the-badge"/></td>
+        <td><img alt="QuantidadeDeItens" src="https://img.shields.io/github/directory-file-count/wesleykfg/Fighting-Game-Tutorial-Chris-Courses?style=for-the-badge"/></td>
+        <td><img alt="Linguagens" src="https://img.shields.io/github/languages/count/wesleykfg/Fighting-Game-Tutorial-Chris-Courses?style=for-the-badge"/></td>
         <!--<td><img alt="JS" src="https://img.shields.io/github/last-commit/wesleykfg/Fighting-Game-Tutorial-Chris-Courses?style=for-the-badge"/></td>-->
     </tr>
 </table>
@@ -36,6 +36,6 @@ https://www.youtube.com/watch?v=vyqbNFMDRGQ&t=12549s]
         <td><img alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/></td>
         <td><img alt="CSS" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white"/></td>
         <td><img alt="Canva" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
-        <!--<td><img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></td>-->
+        <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
     </tr>
 </table>
